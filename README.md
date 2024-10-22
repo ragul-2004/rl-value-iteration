@@ -62,8 +62,8 @@ The algorithm is as follows:
 
 ## VALUE ITERATION FUNCTION
 
-### Name:Javith farkhan
-### Reg.No:212221240017
+### Name:Ragul A C
+### Reg.No:212221240042
 ```python
 def value_iteration(P, gamma=1.0, theta=1e-10):
     # Initialize the value function V as an array of zeros
